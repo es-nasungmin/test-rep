@@ -1,3 +1,6 @@
+using MyApp.Api.Endpoints;
+using MyApp.Api.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -5,6 +8,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddOpenApi();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+// AI 요약 서비스 등록
+builder.Services.AddSingleton<ISummaryService, SummaryService>();
 
 // CORS 추가
 builder.Services.AddCors(options =>
@@ -30,6 +36,9 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseCors("vue");
+
+// AI 요약 엔드포인트
+app.MapSummaryEndpoints();
 
 var summaries = new[]
 {

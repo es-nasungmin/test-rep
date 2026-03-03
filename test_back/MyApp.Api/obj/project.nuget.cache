@@ -1,16 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "ft/QdD1Oh2I=",
+  "dgSpecHash": "81aO0sl681I=",
   "success": true,
-  "projectFilePath": "D:\\nasungmin\\담당업무\\VSCODE_PROJECT\\test-rep\\test_back\\MyApp.Api\\MyApp.Api.csproj",
+  "projectFilePath": "d:\\nasungmin\\담당업무\\VSCODE_PROJECT\\test-rep\\test_back\\MyApp.Api\\MyApp.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC-ESN-D0148\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
     "C:\\Users\\PC-ESN-D0148\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
     "C:\\Users\\PC-ESN-D0148\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
+    "C:\\Users\\PC-ESN-D0148\\.nuget\\packages\\openai\\2.8.0\\openai.2.8.0.nupkg.sha512",
     "C:\\Users\\PC-ESN-D0148\\.nuget\\packages\\swashbuckle.aspnetcore\\10.1.4\\swashbuckle.aspnetcore.10.1.4.nupkg.sha512",
     "C:\\Users\\PC-ESN-D0148\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.4\\swashbuckle.aspnetcore.swagger.10.1.4.nupkg.sha512",
     "C:\\Users\\PC-ESN-D0148\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.4\\swashbuckle.aspnetcore.swaggergen.10.1.4.nupkg.sha512",
-    "C:\\Users\\PC-ESN-D0148\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.4\\swashbuckle.aspnetcore.swaggerui.10.1.4.nupkg.sha512"
+    "C:\\Users\\PC-ESN-D0148\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.4\\swashbuckle.aspnetcore.swaggerui.10.1.4.nupkg.sha512",
+    "C:\\Users\\PC-ESN-D0148\\.nuget\\packages\\system.clientmodel\\1.8.1\\system.clientmodel.1.8.1.nupkg.sha512",
+    "C:\\Users\\PC-ESN-D0148\\.nuget\\packages\\system.memory.data\\8.0.1\\system.memory.data.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }

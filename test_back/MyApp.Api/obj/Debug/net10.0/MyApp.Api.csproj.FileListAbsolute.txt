@@ -70,3 +70,7 @@ D:\nasungmin\담당업무\VSCODE_PROJECT\test-rep\test_back\MyApp.Api\obj\Debug\
 D:\nasungmin\담당업무\VSCODE_PROJECT\test-rep\test_back\MyApp.Api\obj\Debug\net10.0\MyApp.Api.pdb
 D:\nasungmin\담당업무\VSCODE_PROJECT\test-rep\test_back\MyApp.Api\obj\Debug\net10.0\MyApp.Api.genruntimeconfig.cache
 D:\nasungmin\담당업무\VSCODE_PROJECT\test-rep\test_back\MyApp.Api\obj\Debug\net10.0\ref\MyApp.Api.dll
+d:\nasungmin\담당업무\VSCODE_PROJECT\test-rep\test_back\MyApp.Api\bin\Debug\net10.0\OpenAI.dll
+d:\nasungmin\담당업무\VSCODE_PROJECT\test-rep\test_back\MyApp.Api\bin\Debug\net10.0\System.ClientModel.dll
+d:\nasungmin\담당업무\VSCODE_PROJECT\test-rep\test_back\MyApp.Api\bin\Debug\net10.0\System.Memory.Data.dll
+d:\nasungmin\담당업무\VSCODE_PROJECT\test-rep\test_back\MyApp.Api\obj\Debug\net10.0\MyApp.Api.sourcelink.json
